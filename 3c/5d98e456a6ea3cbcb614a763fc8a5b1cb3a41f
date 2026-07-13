@@ -1,0 +1,19 @@
+README.md
+  s_ba431ec744e0eb::t_01165caf2ae8c0 69,72,76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "3c5d98e456a6ea3cbcb614a763fc8a5b1cb3a41f",
+  "prompts": {},
+  "sessions": {
+    "s_ba431ec744e0eb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ae6973d1-4b42-4cd8-9676-133304c5748e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Arun Sharma <sharm485@umn.edu>"
+    }
+  }
+}
