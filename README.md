@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6C8EBF&center=true&vCenter=true&width=1100&lines=Spatial+Data+Science+%7C+GeoAI+%7C+Trustworthy+ML;Physics-Informed+%26+Knowledge-Guided+ML+for+AI4Science;PhD+at+the+University+of+Minnesota;Actively+looking+for+full-time+opportunities;I+build+spatial+AI+that+ships+real+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=6C8EBF&center=true&vCenter=true&width=640&lines=Spatial+Data+Science+%7C+GeoAI+%7C+Trustworthy+ML;Physics-Informed+and+Knowledge-Guided+ML;PhD+at+the+University+of+Minnesota;Actively+looking+for+full-time+opportunities;I+build+spatial+AI+that+ships+real+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ My dissertation, *Distortion-Aware Spatial Data Science* (University of Minnesot
 
 ### About me
 
-- 🎓 PhD in Computer Science at the **University of Minnesota, Twin Cities**, advised by Prof. Shashi Shekhar (dissertation defended 2025)
+- 🎓 PhD at the University of Minnesota, advised by Prof. Shashi Shekhar (dissertation defended 2025)
 - 📚 20+ peer-reviewed papers across **ACM TIST, ACM TSAS, AAAI, SIAM SDM, and ACM SIGSPATIAL**
 - 🧑‍🏫 Teaching assistant for **600+ students** in Algorithms & Data Structures, Advanced Databases, and Spatial Data Science
 - 🤝 Collaborations with Mayo Clinic (oncology), AI-CLIMATE / AI-LEAF (soil & environment), and Minnesota Management & Budget (public-sector mobility)
