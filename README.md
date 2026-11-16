@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C8EBF&center=true&vCenter=true&width=680&lines=Spatial+Data+Science+%7C+GeoAI+%7C+Trustworthy+ML;Physics-Informed+%26+Knowledge-Guided+ML+for+AI4Science;Ph.D.+candidate+%40+University+of+Minnesota;I+build+spatial+AI+that+ships+real+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6C8EBF&center=true&vCenter=true&width=1100&lines=Spatial+Data+Science+%7C+GeoAI+%7C+Trustworthy+ML;Physics-Informed+%26+Knowledge-Guided+ML+for+AI4Science;PhD+at+the+University+of+Minnesota;Actively+looking+for+full-time+opportunities;I+build+spatial+AI+that+ships+real+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,6 +16,8 @@
 </p>
 
 ---
+
+PhD at the University of Minnesota. Actively looking for full-time opportunities.
 
 I work on **spatial data science, GeoAI, and trustworthy spatiotemporal machine learning**, with a focus on physics-informed and knowledge-guided methods for AI4Science. Most of what I do is hands-on: real code, reproducible pipelines, and papers with running artifacts behind them.
 
@@ -31,11 +33,11 @@ My dissertation, *Distortion-Aware Spatial Data Science* (University of Minnesot
 
 ### About me
 
-- 🎓 Ph.D. candidate in Computer Science at the **University of Minnesota, Twin Cities**, advised by Prof. Shashi Shekhar (dissertation defended 2025)
+- 🎓 PhD in Computer Science at the **University of Minnesota, Twin Cities**, advised by Prof. Shashi Shekhar (dissertation defended 2025)
 - 📚 20+ peer-reviewed papers across **ACM TIST, ACM TSAS, AAAI, SIAM SDM, and ACM SIGSPATIAL**
 - 🧑‍🏫 Teaching assistant for **600+ students** in Algorithms & Data Structures, Advanced Databases, and Spatial Data Science
 - 🤝 Collaborations with Mayo Clinic (oncology), AI-CLIMATE / AI-LEAF (soil & environment), and Minnesota Management & Budget (public-sector mobility)
-- 📍 Based in Palo Alto, California, and open to full-time research and applied-ML roles
+- 📍 Based in Palo Alto, California, and actively looking for full-time opportunities
 
 ### Featured projects
 
