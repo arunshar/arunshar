@@ -42,7 +42,7 @@ My dissertation, *Distortion-Aware Spatial Data Science* (University of Minnesot
 | Project | What it is |
 | --- | --- |
 | [**pcrf-aias2026-paper**](https://github.com/arunshar/pcrf-aias2026-paper) | Nine-page AIAS+ 2026 camera-ready paper, Physics-Constrained Rectified Flow for Climate Downscaling. [PDF](https://arunshar.com/projects/pcrf/static/paper/PCRF_AIAS2026_camera_ready_preprint.pdf) and [project page](https://arunshar.com/projects/pcrf/). |
-| [**research-showcase**](https://github.com/arunshar/research-showcase) | Curated index of my public research, code, and live demos. Start here. |
+| [**arunshar.com**](https://arunshar.com/) | Academic site, publications, and project pages. Start here. |
 | [**mbor**](https://github.com/arunshar/mbor) | Independent Rust + GPU reproduction of Multi-level Bi-objective Routing (IWCTS'24), 10x+ faster. [Live demo](https://arunshar.com/mbor/) |
 | [**geotrace-agent**](https://github.com/arunshar/geotrace-agent) | Spatiotemporal reasoning agent built on space-time-prism geometry. |
 | [**mapfix-spatial**](https://github.com/arunshar/mapfix-spatial) | Distortion-aware interactive geospatial-correction MVP. [Live demo](https://arunshar.github.io/mapfix-spatial/) |
